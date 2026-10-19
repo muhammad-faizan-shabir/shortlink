@@ -1,0 +1,15 @@
+# secrets
+.env
+*.pem
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+dev.db
+
+# node
+node_modules/
+dist/
